@@ -1,0 +1,19 @@
+p {
+    background-color: #FFB6C1;
+    font-family: "verdana","Dejavu Sans",sans-serif;
+}
+
+.value2 {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.value3 {
+    font-size: 24px;
+}
+
+#value4 {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
